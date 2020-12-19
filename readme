@@ -10,4 +10,10 @@ The code for Viralness prediction can be found in the following files -
 
 
 The code for Score prediction can be found in the following files - 
-1) 
+1) poi.ipynb
+2) RF.ipynb
+3) logistic_multi_all_1_1024.ipynb
+4) poi_lr_hash_2048_10.ipynb
+
+Data Cleaning Code - 
+1) Data_cleaning_code.ipynb
