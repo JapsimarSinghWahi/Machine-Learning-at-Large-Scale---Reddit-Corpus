@@ -2,3 +2,12 @@ This repository is based on the course project of 17700 - CMU. The Project is ab
 We tried predicting the Score and a self defined label of Viralness using the 'body' of a data point in the json body in the Reddit corpus.
 
 This repository contains the code for the same.
+
+The code for Viralness prediction can be found in the following files - 
+1) viralness.ipynb
+2) viralness_balanced.ipynb
+3) note1.ipynb
+
+
+The code for Score prediction can be found in the following files - 
+1) 
